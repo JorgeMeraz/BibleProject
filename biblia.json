@@ -1,0 +1,79 @@
+{
+  "libros": [
+    {
+      "nombre": "Génesis",
+      "citas": [
+        {
+          "referencia": "Génesis 1:26-27",
+          "texto": "Entonces dijo Dios: Hagamos al hombre a nuestra imagen, conforme a nuestra semejanza; y señoree en los peces del mar, en las aves de los cielos, en las bestias, en toda la tierra, y en todo animal que se arrastra sobre la tierra. Y creó Dios al hombre a su imagen, a imagen de Dios lo creó; varón y hembra los creó.",
+          "explicacion": "Este pasaje describe la creación del hombre a imagen de Dios."
+        },
+        {
+          "referencia": "Génesis 9:11",
+          "texto": "Estableceré mi pacto con vosotros, y no exterminaré ya más toda carne con aguas de diluvio, ni habrá más diluvio para destruir la tierra.",
+          "explicacion": "Dios establece un pacto con Noé después del diluvio, prometiendo no volver a destruir toda la tierra con un diluvio."
+        }
+      ]
+    },
+    {
+      "nombre": "Éxodo",
+      "citas": [
+        {
+          "referencia": "Éxodo 3:14",
+          "texto": "Y respondió Dios a Moisés: YO SOY EL QUE SOY. Y dijo: Así dirás a los hijos de Israel: YO SOY me envió a vosotros.",
+          "explicacion": "Dios se revela a Moisés como el 'YO SOY', mostrando su eternidad y su soberanía."
+        },
+        {
+          "referencia": "Éxodo 20:1-2",
+          "texto": "Y habló Dios todas estas palabras, diciendo: Yo soy Jehová tu Dios, que te saqué de la tierra de Egipto, de casa de servidumbre.",
+          "explicacion": "Estos versículos introducen los Diez Mandamientos, mostrando que Dios es quien liberó a Israel de la esclavitud en Egipto."
+        }
+      ]
+    },
+    {
+      "nombre": "Salmos",
+      "citas": [
+        {
+          "referencia": "Salmo 23:1",
+          "texto": "Jehová es mi pastor; nada me faltará.",
+          "explicacion": "Este famoso salmo resalta la provisión y el cuidado de Dios hacia sus hijos, comparándolo con un pastor que cuida de sus ovejas."
+        },
+        {
+          "referencia": "Salmo 46:10",
+          "texto": "Estad quietos, y conoced que yo soy Dios; seré exaltado entre las naciones; enaltecido seré en la tierra.",
+          "explicacion": "Dios invita a la humanidad a confiar en Él y a reconocer su soberanía sobre todas las cosas."
+        }
+      ]
+    },
+    {
+      "nombre": "Proverbios",
+      "citas": [
+        {
+          "referencia": "Proverbios 3:5-6",
+          "texto": "Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y él enderezará tus veredas.",
+          "explicacion": "Estos versículos animan a confiar en Dios en lugar de en nuestra propia comprensión, y a reconocerlo en todas nuestras acciones."
+        },
+        {
+          "referencia": "Proverbios 16:9",
+          "texto": "El corazón del hombre piensa su camino; mas Jehová endereza sus pasos.",
+          "explicacion": "Aunque el hombre puede planificar sus pasos, es Dios quien dirige su camino."
+        }
+      ]
+    },
+    {
+      "nombre": "Isaías",
+      "citas": [
+        {
+          "referencia": "Isaías 9:6",
+          "texto": "Porque un niño nos es nacido, hijo nos es dado, y el principado sobre su hombro; y se llamará su nombre Admirable, Consejero, Dios Fuerte, Padre Eterno, Príncipe de Paz.",
+          "explicacion": "Este versículo profético anuncia el nacimiento de Jesús y describe algunas de sus cualidades divinas."
+        },
+        {
+          "referencia": "Isaías 53:5",
+          "texto": "Mas él herido fue por nuestras rebeliones, molido por nuestros pecados; el castigo de nuestra paz fue sobre él, y por su llaga fuimos nosotros curados.",
+          "explicacion": "Este pasaje profético preanuncia la expiación proporcionada por Jesucristo en la cruz para la salvación de la humanidad."
+        }
+      ]
+    }
+  ]
+}
